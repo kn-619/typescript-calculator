@@ -28,7 +28,7 @@ let op=message.operator;
 
 
 if(op==="+"){
-    console.log(`The addition of the ${numberone} + ${numbertwo} =  + ${numberone+numbertwo}`);
+    console.log(`The addition of the ${numberone} + ${numbertwo} =   ${numberone+numbertwo}`);
 }else if(op==="-"){
     console.log(`The Subtraction of the ${numberone} - ${numbertwo} =  ${numberone-numbertwo}`);   
 }else if(op==='*'){
